@@ -17,7 +17,7 @@ public class App {
 
                 if (guess == secretNum) 
                     {
-                        System.out.println("You guessed the secret number!");
+                        System.out.println("You guessed the secret number! Better luck next time");
                     }else
                     {
                         System.out.println("You didnt guess the secret number :(");
