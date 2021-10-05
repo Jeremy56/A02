@@ -23,6 +23,6 @@ public class App {
                         System.out.println("You LOST!!!! XD ");
                     }
             }
-        System.out.println("You guessed the number 5 times");
+        System.out.println("You guessed the number multiple times");
     }
 }
